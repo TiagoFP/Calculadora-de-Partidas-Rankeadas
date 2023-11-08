@@ -1,0 +1,15 @@
+C:\Cursos\LogicaFormacao-PotenciaTechIfood\Desafio de Projeto\CalculadoraPartirdasRankeadas\obj\Debug\net7.0\CalculadoraPartirdasRankeadas.csproj.AssemblyReference.cache
+C:\Cursos\LogicaFormacao-PotenciaTechIfood\Desafio de Projeto\CalculadoraPartirdasRankeadas\obj\Debug\net7.0\CalculadoraPartirdasRankeadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\LogicaFormacao-PotenciaTechIfood\Desafio de Projeto\CalculadoraPartirdasRankeadas\obj\Debug\net7.0\CalculadoraPartirdasRankeadas.AssemblyInfoInputs.cache
+C:\Cursos\LogicaFormacao-PotenciaTechIfood\Desafio de Projeto\CalculadoraPartirdasRankeadas\obj\Debug\net7.0\CalculadoraPartirdasRankeadas.AssemblyInfo.cs
+C:\Cursos\LogicaFormacao-PotenciaTechIfood\Desafio de Projeto\CalculadoraPartirdasRankeadas\obj\Debug\net7.0\CalculadoraPartirdasRankeadas.csproj.CoreCompileInputs.cache
+C:\Cursos\LogicaFormacao-PotenciaTechIfood\Desafio de Projeto\CalculadoraPartirdasRankeadas\bin\Debug\net7.0\CalculadoraPartirdasRankeadas.exe
+C:\Cursos\LogicaFormacao-PotenciaTechIfood\Desafio de Projeto\CalculadoraPartirdasRankeadas\bin\Debug\net7.0\CalculadoraPartirdasRankeadas.deps.json
+C:\Cursos\LogicaFormacao-PotenciaTechIfood\Desafio de Projeto\CalculadoraPartirdasRankeadas\bin\Debug\net7.0\CalculadoraPartirdasRankeadas.runtimeconfig.json
+C:\Cursos\LogicaFormacao-PotenciaTechIfood\Desafio de Projeto\CalculadoraPartirdasRankeadas\bin\Debug\net7.0\CalculadoraPartirdasRankeadas.dll
+C:\Cursos\LogicaFormacao-PotenciaTechIfood\Desafio de Projeto\CalculadoraPartirdasRankeadas\bin\Debug\net7.0\CalculadoraPartirdasRankeadas.pdb
+C:\Cursos\LogicaFormacao-PotenciaTechIfood\Desafio de Projeto\CalculadoraPartirdasRankeadas\obj\Debug\net7.0\CalculadoraPartirdasRankeadas.dll
+C:\Cursos\LogicaFormacao-PotenciaTechIfood\Desafio de Projeto\CalculadoraPartirdasRankeadas\obj\Debug\net7.0\refint\CalculadoraPartirdasRankeadas.dll
+C:\Cursos\LogicaFormacao-PotenciaTechIfood\Desafio de Projeto\CalculadoraPartirdasRankeadas\obj\Debug\net7.0\CalculadoraPartirdasRankeadas.pdb
+C:\Cursos\LogicaFormacao-PotenciaTechIfood\Desafio de Projeto\CalculadoraPartirdasRankeadas\obj\Debug\net7.0\CalculadoraPartirdasRankeadas.genruntimeconfig.cache
+C:\Cursos\LogicaFormacao-PotenciaTechIfood\Desafio de Projeto\CalculadoraPartirdasRankeadas\obj\Debug\net7.0\ref\CalculadoraPartirdasRankeadas.dll
